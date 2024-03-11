@@ -1,6 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Maksim, a full-time frontend freelance developer 👨‍💻 </div>  
@@ -19,7 +17,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table border="0"><tr><td valign="top" width="33%">
 
 
 
@@ -74,8 +72,3 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
